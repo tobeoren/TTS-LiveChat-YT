@@ -20,16 +20,22 @@ The YouTube Live Chat Text-to-Speech (TTS) Bot is a Python program that adds an 
 Below is a list of what you need to install and set up:
 1. Python: Ensure that you have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org/downloads/). The program is compatible with Python 3.x.
 2. Libraries:
-   pytchat: Install the pytchat library, which allows you to retrieve YouTube live chat messages. You can install it using pip:
+   - pytchat: Install the pytchat library, which allows you to retrieve YouTube live chat messages. You can install it using pip:
 ```
 pip install pytchat
 ```
 
-   requests: The requests library is required to download the text-to-speech audio files. Install it using pip:
-``` pip install requests ```
+   - requests: The requests library is required to download the text-to-speech audio files. Install it using pip:
+```
+pip install requests
+```
 
-   googletrans: To detect the language of chat messages and perform translations, you need the googletrans library. Install it using pip:
-``` pip install googletrans==4.0.0-rc1 ```
+   - googletrans: To detect the language of chat messages and perform translations, you need the googletrans library. Install it using pip:
+```
+pip install googletrans==4.0.0-rc1
+```
 
-   pygame: For playing the text-to-speech audio, you'll need the pygame library. Install it using pip:
-``` pip install pygame ```
+   - pygame: For playing the text-to-speech audio, you'll need the pygame library. Install it using pip:
+```
+pip install pygame
+```
