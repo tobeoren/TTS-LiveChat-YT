@@ -39,3 +39,11 @@ pip install googletrans==4.0.0-rc1
 ```
 pip install pygame
 ```
+3. Livestream ID:
+Before running the program, you'll need the YouTube livestream ID of the live stream where you want to monitor the chat. You can obtain the livestream ID from the URL of the livestream video. For example, if the URL is https://www.youtube.com/watch?v=YourLivestreamID, then YourLivestreamID is the livestream ID.
+4. Text-to-Speech Audio Output:
+Make sure your computer's audio output is configured correctly, and the speakers or headphones are connected and working.
+
+Once you've installed the required libraries and obtained the YouTube API key and livestream ID, you are ready to run the YouTube Live Chat Text-to-Speech (TTS) Bot. Simply execute the Python script, and the bot will start monitoring the live chat of the specified YouTube livestream, converting chat messages to speech in real-time.
+
+Remember to use the bot responsibly and respect the YouTube community guidelines when using it during live streams. Enjoy engaging with your audience in a more interactive and accessible way!
