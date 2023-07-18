@@ -24,17 +24,14 @@ Below is a list of what you need to install and set up:
 ```
 pip install pytchat
 ```
-
    - requests: The requests library is required to download the text-to-speech audio files. Install it using pip:
 ```
 pip install requests
 ```
-
    - googletrans: To detect the language of chat messages and perform translations, you need the googletrans library. Install it using pip:
 ```
 pip install googletrans==4.0.0-rc1
 ```
-
    - pygame: For playing the text-to-speech audio, you'll need the pygame library. Install it using pip:
 ```
 pip install pygame
