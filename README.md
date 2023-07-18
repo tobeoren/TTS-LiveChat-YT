@@ -21,7 +21,9 @@ Below is a list of what you need to install and set up:
 1. Python: Ensure that you have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org/downloads/). The program is compatible with Python 3.x.
 2. Libraries:
    pytchat: Install the pytchat library, which allows you to retrieve YouTube live chat messages. You can install it using pip:
-``` pip install pytchat ```
+```
+pip install pytchat
+```
 
    requests: The requests library is required to download the text-to-speech audio files. Install it using pip:
 ``` pip install requests ```
