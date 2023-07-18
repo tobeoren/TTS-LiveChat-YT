@@ -1,10 +1,10 @@
-#**YouTube Live Chat Text-to-Speech (TTS) Bot**
-##The YouTube Live Chat Text-to-Speech (TTS) Bot is a Python program that adds an exciting dimension to live streaming on YouTube. This interactive bot converts real-time chat messages from viewers into spoken words, making it easier for streamers and their audiences to engage and interact during live streams.
+# **YouTube Live Chat Text-to-Speech (TTS) Bot**
+## The YouTube Live Chat Text-to-Speech (TTS) Bot is a Python program that adds an exciting dimension to live streaming on YouTube. This interactive bot converts real-time chat messages from viewers into spoken words, making it easier for streamers and their audiences to engage and interact during live streams.
 
-#Features:
-##1. Live Chat Conversion: The bot instantly transforms incoming chat messages from viewers into natural-sounding speech using the Google Translate Text-to-Speech (TTS) API.
-##2. Language Detection and Translation: With the help of the Google Translate API, the bot identifies the language of each chat message and provides translations when needed. This ensures smooth communication between the streamer and their diverse audience.
-##3. Chat Filtering: Streamers can customize a blacklist to ignore messages from specific users or known bots, creating a focused and positive chat environment.
+# Features:
+## 1. Live Chat Conversion: The bot instantly transforms incoming chat messages from viewers into natural-sounding speech using the Google Translate Text-to-Speech (TTS) API.
+## 2. Language Detection and Translation: With the help of the Google Translate API, the bot identifies the language of each chat message and provides translations when needed. This ensures smooth communication between the streamer and their diverse audience.
+## 3. Chat Filtering: Streamers can customize a blacklist to ignore messages from specific users or known bots, creating a focused and positive chat environment.
 
 Emoticon Filtering: To maintain meaningful communication, the bot filters out messages containing emoticons.
 
