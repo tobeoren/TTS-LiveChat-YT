@@ -44,3 +44,5 @@ Make sure your computer's audio output is configured correctly, and the speakers
 Once you've installed the required libraries and obtained the YouTube API key and livestream ID, you are ready to run the YouTube Live Chat Text-to-Speech (TTS) Bot. Simply execute the Python script, and the bot will start monitoring the live chat of the specified YouTube livestream, converting chat messages to speech in real-time.
 
 Remember to use the bot responsibly and respect the YouTube community guidelines when using it during live streams. Enjoy engaging with your audience in a more interactive and accessible way!
+
+# **NOTE: YOU CAN USE THIS CODE FOR FREE BUT PLEASE INCLUDE A LINK TO MY GITHUB IN YOUR DESCRIBTION. THANKYOU.**
