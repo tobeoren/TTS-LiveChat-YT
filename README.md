@@ -45,4 +45,4 @@ Once you've installed the required libraries and obtained the YouTube API key an
 
 Remember to use the bot responsibly and respect the YouTube community guidelines when using it during live streams. Enjoy engaging with your audience in a more interactive and accessible way!
 
-# NOTE: YOU CAN USE THIS CODE FOR FREE BUT PLEASE INCLUDE A LINK TO MY GITHUB IN YOUR DESCRIBTION. THANKYOU.
+Don't Forget to Include My GITHUB in Your Description. THANKYOU.
