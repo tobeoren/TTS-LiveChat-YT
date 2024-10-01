@@ -1,0 +1,5 @@
+pytchat
+pygame
+rich
+requests
+googletrans==4.0.0-rc1
