@@ -6,6 +6,15 @@ import urllib.parse
 import requests
 from pygame import mixer
 import os
+from rich.console import Console
+from rich.text import Text
+
+# Menampilkan watermark di bagian awal
+watermark_text = Text("Text to Speach - YouTube Live Chat", style="bold blue")
+author_text = Text("by: tobeoren", style="bold cyan")
+
+console.print(watermark_text, justify="center")
+console.print(author_text, justify="center")
 
 # Daftar pengguna yang ingin diabaikan dalam chat (misalnya nama streamer)
 blacklist = []
