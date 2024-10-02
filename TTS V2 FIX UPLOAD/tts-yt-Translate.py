@@ -7,7 +7,7 @@ import requests
 from googletrans import Translator  # Added Google Translate
 from pygame import mixer
 import os
-from rich.console import Console
+from rich.console import console
 from rich.text import Text
 
 # Menampilkan watermark di bagian awal
