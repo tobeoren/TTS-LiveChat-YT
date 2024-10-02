@@ -9,6 +9,9 @@ import os
 from rich.console import Console
 from rich.text import Text
 
+# Inisialisasi console rich
+console = Console()
+
 # Menampilkan watermark di bagian awal
 watermark_text = Text("Text to Speach - YouTube Live Chat", style="bold blue")
 author_text = Text("by: tobeoren", style="bold cyan")
