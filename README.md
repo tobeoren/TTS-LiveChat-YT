@@ -45,4 +45,8 @@ Once you've installed the required libraries and obtained the YouTube API key an
 
 Remember to use the bot responsibly and respect the YouTube community guidelines when using it during live streams. Enjoy engaging with your audience in a more interactive and accessible way!
 
-Don't Forget to Include My GITHUB in Your Description. THANKYOU.
+# IF YOU WANT TO SUPPORT ME
+- EVM ADDRESS: 0x491d7397212c55da8352d7733d2513393a362ae9
+- SOLANA: 5MNBgtrsasfqenxb75ZLjd4epjB2TUKf9fbxfw143kq6
+- BTC: bc1pts2fvykemcdyk2rg37al8chdc4uxptwg82w3nf0j02smzrtm9a6sp5dldc
+- TON: UQCnGIFDBtrvJC9LtkcVa3SrkS3ifb2qZxZX3r-abZ-4GG1D
