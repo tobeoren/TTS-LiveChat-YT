@@ -7,8 +7,11 @@ import requests
 from googletrans import Translator  # Added Google Translate
 from pygame import mixer
 import os
-from rich.console import console
+from rich.console import Console
 from rich.text import Text
+
+# Inisialisasi console rich
+console = Console()
 
 # Menampilkan watermark di bagian awal
 watermark_text = Text("Text to Speach - YouTube Live Chat", style="bold blue")
