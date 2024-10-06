@@ -3,3 +3,6 @@ pygame
 rich
 requests
 googletrans==4.0.0-rc1
+PyQt6-WebEngine
+PyQt6
+PyQt5
