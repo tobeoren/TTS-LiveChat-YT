@@ -3,7 +3,7 @@
 # **Introduction**
 The YouTube Live Chat Text-to-Speech (TTS) Bot is a Python program that adds an exciting dimension to live streaming on YouTube. This interactive bot converts real-time chat messages from viewers into spoken words, making it easier for streamers and their audiences to engage and interact during live streams.
 
-<img width="599" alt="image" src="https://github.com/user-attachments/assets/8e500131-23ee-49c2-a60e-e11af4f273df">
+<img width="602" alt="Screenshot 2024-10-08 170119" src="https://github.com/user-attachments/assets/8f5d8163-3a51-4e32-84d6-51d91001a4a0">
 
 ---
 
